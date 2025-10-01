@@ -8,7 +8,7 @@ namespace Leetcode.CodeForces.CF1703
 {
     internal class _1703G
     {
-        private static void Main(string[] args)
+        private static void Solve(string[] args)
         {
             var t = int.Parse(Console.ReadLine());
             
