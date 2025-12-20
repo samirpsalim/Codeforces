@@ -8,7 +8,7 @@ namespace Leetcode.CodeForces.CF2180
 {
     internal class _2180D
     {
-        static void Main(string[] args)
+        static void Solve(string[] args)
         {
             var t = int.Parse(Console.ReadLine()!);
             int prev;
