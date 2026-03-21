@@ -2,7 +2,7 @@
 {
     internal class CF2209A
     {
-        static void Main(string[] args)
+        static void Solve(string[] args)
         {
             var t = int.Parse(Console.ReadLine()!);
             long n, c, k;
