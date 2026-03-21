@@ -7,7 +7,7 @@ namespace Leetcode.CodeForces.CF4
     {
         private static Dictionary<(int, int), Envelope?> _processResult = new();
 
-        static void Main(string[] args)
+        static void Solve(string[] args)
         {
             var input = Console.ReadLine()!.Split(' ').Select(int.Parse).ToArray();
 
