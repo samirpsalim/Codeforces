@@ -2,7 +2,7 @@
 {
     internal class _1913B
     {
-        static void Main(string[] args)
+        static void Solve(string[] args)
         {
             var t = int.Parse(Console.ReadLine()!);
 
