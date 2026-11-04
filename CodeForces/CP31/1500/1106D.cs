@@ -2,7 +2,7 @@
 {
     internal class _1106D
     {
-        static void Main(string[] args)
+        static void Solve(string[] args)
         {
             var arr = Console.ReadLine()!.Split(' ').Select(int.Parse).ToArray();
 
